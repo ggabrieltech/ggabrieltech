@@ -9,4 +9,4 @@ Looking forward to more engineering focused subjects in the next semesters.
 - Linkedin: https://www.linkedin.com/in/gabriel-gogishvili-291589351/
 - My Youtube Channel: https://www.youtube.com/@ggabrieltech
 
-# Hasta Siempre, Comandante
+### Hasta Siempre, Comandante
